@@ -1,0 +1,9 @@
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.p5Canvas {
+  margin: 1rem;
+}
